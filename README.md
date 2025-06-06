@@ -56,9 +56,13 @@ To confirm encrypted traffic:
 ### 6. **VPN Disconnected – Speed/IP Comparison**
 - Disconnected from the VPN.
 - Compared IP and browsing speed on the same website.
+- Used the online website https://speedof.me/ to test the speed of local network and vpn.
 
-📸 **Screenshot:**
+📸 **Screenshot(Local):**
 ![Speed Comparison(Local)](screenshots/speed-comparison(before).png)
+
+
+📸 **Screenshot(VPN):**
 ![Speed Comparison(VPN)](screenshots/speed-comparison(after).png)
 
 ---
