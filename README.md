@@ -58,7 +58,8 @@ To confirm encrypted traffic:
 - Compared IP and browsing speed on the same website.
 
 📸 **Screenshot:**
-![Speed Comparison](screenshots/speed-comparison.png)
+![Speed Comparison(Local)](screenshots/speed-comparison(before).png)
+![Speed Comparison(VPN)](screenshots/speed-comparison(after).png)
 
 ---
 
